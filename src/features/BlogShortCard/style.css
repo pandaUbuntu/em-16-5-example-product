@@ -1,0 +1,7 @@
+.blog-short-card-container{
+    width: 200px;
+    min-height: 200px;
+    border: 1px, solid;
+    border-radius: 25px;
+    margin: 20px 0 ;
+}

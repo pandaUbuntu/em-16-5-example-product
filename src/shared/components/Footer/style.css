@@ -1,0 +1,10 @@
+.footer-wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border: 2px solid;
+
+    ul{
+        list-style: none;
+    }
+}
